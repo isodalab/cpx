@@ -5,7 +5,7 @@
 <h1 align="center">CPX</h1>
 <p align="center"><b>Click Polytempo eXtended</b><br>
 IsodaLab<br>
-<i>Free professional audio software, created for the global audio community.</i></p>
+<i>Free advanced music production tool, created for the global creative community.</i></p>
 
 <p align="center">
   <a href="https://github.com/isodalab/cpx/releases/tag/v1.0.0"><b>Download 1.0.0</b></a> ·
